@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enes Sefa Erdoğan 👋</h1>
 
 <p align="center">
-  <b>SAP Developer | ABAP | SAP Fiori | SAP BTP | CAP | RAP</b>
+  <b>SAP BTP Full Stack Developer | ABAP | SAP Fiori | CAP | RAP</b>
 </p>
 
 <p align="center">
