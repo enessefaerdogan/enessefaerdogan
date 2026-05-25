@@ -90,9 +90,9 @@ My main focus areas are:
 ## 📌 Focus Areas
 
 ```txt
-SAP ABAP        ████████████████████
-SAP Fiori       ████████████████████
-SAP BTP         ██████████████████
-SAP CAP         █████████████████
-SAP RAP         ████████████████
-OData/API       ███████████████████
+SAP ABAP        
+SAP Fiori      
+SAP BTP        
+SAP CAP         
+SAP RAP        
+OData/API      
